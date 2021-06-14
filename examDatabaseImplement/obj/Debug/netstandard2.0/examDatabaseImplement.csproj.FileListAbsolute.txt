@@ -1,0 +1,24 @@
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examDatabaseImplement.deps.json
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examDatabaseImplement.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examDatabaseImplement.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examBusinessLogic.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examBusinessLogic.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.pdb
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examDatabaseImplement.deps.json
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examDatabaseImplement.dll
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examDatabaseImplement.pdb
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examBusinessLogic.dll
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\bin\Debug\netstandard2.0\examBusinessLogic.pdb
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.csprojAssemblyReference.cache
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.AssemblyInfoInputs.cache
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.AssemblyInfo.cs
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.csproj.CoreCompileInputs.cache
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.csproj.CopyComplete
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.dll
+C:\Users\swedl\Downloads\examView-main\examDatabaseImplement\obj\Debug\netstandard2.0\examDatabaseImplement.pdb

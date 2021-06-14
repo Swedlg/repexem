@@ -1,0 +1,213 @@
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examView.exe.config
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examView.exe
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examView.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examBusinessLogic.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examDatabaseImplement.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examListImplement.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\PdfSharp.Charting.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\PdfSharp.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Buffers.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Collections.Immutable.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Memory.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Unity.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Unity.Container.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examBusinessLogic.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examDatabaseImplement.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\examListImplement.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\PdfSharp.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\PdfSharp.Charting.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Buffers.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Collections.Immutable.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Memory.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Unity.Abstractions.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\Unity.Container.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.FormComponent.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.FormComponents.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.FormMain.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.FormReport.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.FormSystemBlock.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.FormSystemBlocks.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.exe
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examView\obj\Debug\examView.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examView.exe.config
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examView.exe
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examView.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examBusinessLogic.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examDatabaseImplement.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examListImplement.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\MigraDoc.RtfRendering.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\PdfSharp.Charting.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\PdfSharp.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Buffers.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Collections.Immutable.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Memory.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Unity.Abstractions.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Unity.Container.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examBusinessLogic.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examDatabaseImplement.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\examListImplement.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\MigraDoc.DocumentObjectModel.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\MigraDoc.Rendering.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\MigraDoc.RtfRendering.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\PdfSharp.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\PdfSharp.Charting.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Buffers.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Collections.Immutable.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Memory.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Unity.Abstractions.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\Unity.Container.pdb
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\de\MigraDoc.Rendering.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.csprojAssemblyReference.cache
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormComponent.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormComponents.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormMain.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormReport.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormSystemBlock.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormSystemBlocks.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.FormSystemBlocksComponent.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.Properties.Resources.resources
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.csproj.GenerateResource.cache
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.csproj.CoreCompileInputs.cache
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.csproj.CopyComplete
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.exe
+C:\Users\swedl\Downloads\examView-main\examView\obj\Debug\examView.pdb

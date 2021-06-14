@@ -1,0 +1,24 @@
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\bin\Debug\netstandard2.0\examListImplement.deps.json
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\bin\Debug\netstandard2.0\examListImplement.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\bin\Debug\netstandard2.0\examListImplement.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\bin\Debug\netstandard2.0\examBusinessLogic.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\bin\Debug\netstandard2.0\examBusinessLogic.pdb
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.dll
+C:\Users\User\OneDrive\Рабочий стол\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.pdb
+C:\Users\swedl\Downloads\examView-main\examListImplement\bin\Debug\netstandard2.0\examListImplement.deps.json
+C:\Users\swedl\Downloads\examView-main\examListImplement\bin\Debug\netstandard2.0\examListImplement.dll
+C:\Users\swedl\Downloads\examView-main\examListImplement\bin\Debug\netstandard2.0\examListImplement.pdb
+C:\Users\swedl\Downloads\examView-main\examListImplement\bin\Debug\netstandard2.0\examBusinessLogic.dll
+C:\Users\swedl\Downloads\examView-main\examListImplement\bin\Debug\netstandard2.0\examBusinessLogic.pdb
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.csprojAssemblyReference.cache
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.AssemblyInfoInputs.cache
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.AssemblyInfo.cs
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.csproj.CoreCompileInputs.cache
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.csproj.CopyComplete
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.dll
+C:\Users\swedl\Downloads\examView-main\examListImplement\obj\Debug\netstandard2.0\examListImplement.pdb
