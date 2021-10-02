@@ -1,0 +1,12 @@
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\bin\Debug\netstandard2.0\ListImplement.deps.json
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\bin\Debug\netstandard2.0\ListImplement.dll
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\bin\Debug\netstandard2.0\ListImplement.pdb
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\bin\Debug\netstandard2.0\LibraryClass.dll
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\bin\Debug\netstandard2.0\LibraryClass.pdb
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.csprojAssemblyReference.cache
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.AssemblyInfoInputs.cache
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.AssemblyInfo.cs
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.csproj.CoreCompileInputs.cache
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.csproj.CopyComplete
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.dll
+C:\Users\swedl\source\repos\ClassLibrary\ListImplement\obj\Debug\netstandard2.0\ListImplement.pdb

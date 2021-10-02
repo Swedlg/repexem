@@ -1,0 +1,12 @@
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\bin\Debug\netstandard2.0\DatabaseImplement.deps.json
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\bin\Debug\netstandard2.0\DatabaseImplement.dll
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\bin\Debug\netstandard2.0\DatabaseImplement.pdb
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\bin\Debug\netstandard2.0\LibraryClass.dll
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\bin\Debug\netstandard2.0\LibraryClass.pdb
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.csprojAssemblyReference.cache
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.AssemblyInfoInputs.cache
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.AssemblyInfo.cs
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.csproj.CoreCompileInputs.cache
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.csproj.CopyComplete
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.dll
+C:\Users\swedl\source\repos\ClassLibrary\DatabaseImplement\obj\Debug\netstandard2.0\DatabaseImplement.pdb

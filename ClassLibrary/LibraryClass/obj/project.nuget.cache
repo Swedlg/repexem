@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "1aLcA60P7Ll/+V3DpRuIurOA+pBf5NjtUFFyhO01tuygyc9Q71vmE31IkSuQvwgQOw4mEBA899Xd+6NlsEYy8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\swedl\\source\\repos\\ClassLibrary\\LibraryClass\\LibraryClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\swedl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\swedl\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\swedl\\.nuget\\packages\\pdfsharp-migradoc\\1.50.5147\\pdfsharp-migradoc.1.50.5147.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"PDFsharp-MigraDoc 1.50.5147\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETStandard,Version=v2.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "PDFsharp-MigraDoc",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

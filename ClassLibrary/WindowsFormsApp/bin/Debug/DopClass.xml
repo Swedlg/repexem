@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DopClasses>
+  <DopClass Id="1">
+    <DopName>1</DopName>
+    <DopDate>2021-10-01T21:09:52</DopDate>
+    <DopField>1</DopField>
+    <DopField2>1</DopField2>
+    <ClassId>1</ClassId>
+  </DopClass>
+  <DopClass Id="2">
+    <DopName>2</DopName>
+    <DopDate>2021-10-01T21:09:52</DopDate>
+    <DopField>1</DopField>
+    <DopField2>1</DopField2>
+    <ClassId>3</ClassId>
+  </DopClass>
+</DopClasses>
